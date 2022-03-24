@@ -58,7 +58,7 @@ Integrantes del grupo 5
  _Benítez Iván Alejandro - (https://github.com/alejandro-IV)_
  _Klepacek Carlos Francisco- (https://github.com/carlitosklepa)_
  _Zapata Cáceres Lucas- (https://github.com/Lucasoftware7)_
- _Biglia Alejandro Lian- (https://github.com/Lian8942) _
+ _Biglia Alejandro Lian- (https://github.com/Lian8942)_
 
 Aca esta la lista de todos los que han participado en este proyecto. 
 
